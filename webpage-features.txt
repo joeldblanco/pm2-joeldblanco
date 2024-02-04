@@ -1,0 +1,21 @@
+MOVIE REVIEWS
+
+- Movie:
+    - Rating
+    - Cover
+    - Title
+    - Release Date
+    - Genre
+    - Director
+    - Duration
+    - Description
+    - Resources:
+        - Article
+
+- Article:
+    - Title
+    - Content
+    - Author
+    - Date
+    - Resources:
+        - Movie
